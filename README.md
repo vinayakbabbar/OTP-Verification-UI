@@ -1,6 +1,6 @@
 Name:- OTP-Verification-UI
 
-Desription:- Basic UI of OTP verifcation 
+Desription:- Basic UI of OTP verification 
 
 Features:- Add some CSS to provide 3D effect and add move forward & backward functionality with using mouse 
 
