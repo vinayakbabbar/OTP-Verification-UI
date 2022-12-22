@@ -1,4 +1,3 @@
-Name:- OTP-Verification-UI
 
 Desription:- Basic UI of OTP verification 
 
